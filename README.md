@@ -12,3 +12,14 @@ I want to create a discord bot that keeps track of the tweets from a certain lis
 2. Create a Discord bot that send tweet updates and host it. 
 
 Please see the file `Covid_Update_Discord_Bot.pdf` for full details of implementation.
+
+## Workflow 
+1. Retrieve user_id(s) of the provided username(s) and save into a JSON file. (`setup.py`)
+2. Create a discord bot that runs a background task loop. (`main.py`)
+3. Retrieve the most recent tweets that have been posted by username(s) within the last specified minute interval. (`get_most_recent_tweets.py`)
+4. Filter the tweets so that only the ones containing the keywords will be kept. (`get_most_recent_tweets.py`)
+5. Post the tweet url onto the discord channel. (`main.py`)
+6. Host the bot. (`keep_alive.py`)
+
+## Example
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EjF4kaP34y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
