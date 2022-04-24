@@ -22,4 +22,6 @@ Please see the file `Covid_Update_Discord_Bot.pdf` for full details of implement
 6. Host the bot. (`keep_alive.py`)
 
 ## Example
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EjF4kaP34y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=EjF4kaP34y8"><img src="https://img.youtube.com/vi/EjF4kaP34y8/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
