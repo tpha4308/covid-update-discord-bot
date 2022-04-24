@@ -11,7 +11,7 @@ I want to create a discord bot that keeps track of the tweets from a certain lis
 1. Access to Twitter API to get the real-time update on tweets. 
 2. Create a Discord bot that send tweet updates and host it. 
 
-Please see the file `Covid_Update_Discord_Bot.pdf` for full details of implementation.
+Please see the file [Covid_Update_Discord_Bot.pdf](https://github.com/tpha4308/covid-update-discord-bot/blob/main/Covid_Update_Discord_Bot.pdf) for full details of implementation.
 
 ## Workflow 
 1. Retrieve user_id(s) of the provided username(s) and save into a JSON file. (`setup.py`)
